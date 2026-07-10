@@ -1,0 +1,251 @@
+gender,academic_level,interest_in_academic_path,preferred_track,track_choice_hesitancy,track_choice_factor,has_sufficient_resources,has_practical_internship,college_satisfaction,college_to_skill_gap,self_learning_scale,interest_in_emerging_fields,industry_demand_importance,salary_importance,goal_confidence,interview_preparedness,certification_importance,preferred_work_type,preferred_platform
+Female,second,Neutral,Mobile Development,Hesitant,Personal Interest,No,Yes,Very Dissatisfied,Large,4,No,High,Medium,3,3,4,Remote,LinkedIn
+Male,second,Neutral,Data Science,Hesitant,Personal Interest,No,Yes,Dissatisfied,Large,4,No,Medium,Medium,4,4,4,Hybrid,LinkedIn
+Male,third,Low,Data Science,Hesitant,Personal Interest,No,Yes,Satisfied,Moderate,5,No,High,Medium,4,4,5,Remote,LinkedIn
+Female,third,Low,Data Science,Hesitant,Salary Prospects,No,Yes,Neutral,Moderate,3,No,High,High,3,3,3,Remote,LinkedIn
+Male,fourth,Low,Data Science,Hesitant,Salary Prospects,No,No,Satisfied,Moderate,4,No,Medium,High,4,3,4,Remote,LinkedIn
+Male,fourth,Low,AI,Very Hesitant,Personal Interest,No,Yes,Dissatisfied,Moderate,5,No,High,High,3,3,4,Remote,LinkedIn
+Male,third,Neutral,Data Science,Slightly Hesitant,Personal Interest,No,Yes,Satisfied,Small,3,No,Medium,Medium,5,5,2,Remote,LinkedIn
+Female,second,Neutral,Data Science,Hesitant,Market Demand,No,Yes,Very Dissatisfied,Large,5,No,High,Medium,4,4,4,On-site,LinkedIn
+Female,third,Neutral,Mobile Development,Hesitant,Market Demand,No,Yes,Satisfied,Small,5,No,High,High,3,3,4,Remote,Indeed
+Male,fourth,Low,Mobile Development,Very Hesitant,Flexibility,No,No,Neutral,Moderate,4,No,High,Medium,3,4,3,Remote,LinkedIn
+Female,first,Low,Data Science,Very Hesitant,Personal Interest,No,No,Very Dissatisfied,Moderate,3,No,High,High,4,3,3,Remote,LinkedIn
+Male,third,Neutral,Data Science,Slightly Hesitant,Personal Interest,No,Yes,Neutral,Large,4,No,High,Medium,3,2,4,Remote,Upwork
+Male,first,Low,Cybersecurity,Hesitant,Personal Interest,No,Yes,Satisfied,Moderate,4,No,High,High,3,3,3,On-site,Indeed
+Female,second,Low,Data Science,Very Hesitant,Market Demand,No,No,Dissatisfied,Moderate,5,No,High,High,3,3,5,Hybrid,LinkedIn
+Female,first,Low,Mobile Development,Very Hesitant,Flexibility,No,No,Very Dissatisfied,Moderate,5,No,High,Medium,3,4,5,Hybrid,LinkedIn
+Male,third,High,AI,Neutral,Personal Interest,Yes,Yes,Neutral,Small,5,Yes,High,High,3,3,5,Hybrid,LinkedIn
+Female,third,Low,Data Science,Hesitant,Market Demand,No,Yes,Satisfied,Moderate,3,No,High,High,3,3,4,Remote,LinkedIn
+Female,third,High,AI,Neutral,Personal Interest,Yes,No,Very Satisfied,Small,5,Yes,High,High,5,4,5,Remote,LinkedIn
+Female,third,Neutral,Mobile Development,Hesitant,Market Demand,No,Yes,Dissatisfied,Moderate,4,No,Medium,Medium,2,2,3,Remote,LinkedIn
+Female,third,High,Data Science,Slightly Hesitant,Personal Interest,Yes,Yes,Very Satisfied,Small,4,Yes,High,Medium,3,4,4,Hybrid,LinkedIn
+Male,fourth,High,Data Science,Neutral,Personal Interest,Yes,Yes,Neutral,Moderate,3,Yes,Medium,High,4,5,4,Remote,LinkedIn
+Female,second,Low,Web Development,Hesitant,Market Demand,No,No,Dissatisfied,Small,3,No,High,High,2,1,3,Remote,Indeed
+Female,fourth,Neutral,AI,Hesitant,Personal Interest,No,No,Satisfied,Moderate,5,No,Medium,Medium,5,5,5,Remote,Indeed
+Male,third,Low,AI,Hesitant,Personal Interest,No,Yes,Satisfied,Moderate,5,No,High,Medium,5,5,5,Remote,LinkedIn
+Female,third,Low,Cybersecurity,Hesitant,Personal Interest,No,No,Satisfied,Small,5,No,High,Medium,5,5,5,Remote,LinkedIn
+Male,second,Low,Data Science,Very Hesitant,Market Demand,No,No,Very Dissatisfied,Moderate,3,No,High,Medium,4,5,2,Remote,Indeed
+Male,second,Low,Mobile Development,Very Hesitant,Flexibility,No,No,Satisfied,Small,4,No,Medium,High,3,3,5,On-site,LinkedIn
+Female,first,Low,Web Development,Hesitant,Personal Interest,No,No,Very Dissatisfied,Moderate,4,No,Medium,Medium,3,2,3,Hybrid,LinkedIn
+Female,fourth,Low,Data Science,Very Hesitant,Salary Prospects,No,Yes,Dissatisfied,Moderate,5,No,High,High,4,4,4,Remote,Upwork
+Male,second,Low,Data Science,Hesitant,Personal Interest,No,Yes,Dissatisfied,Moderate,3,No,High,Medium,4,5,3,Hybrid,Indeed
+Male,second,Low,AI,Hesitant,Personal Interest,No,Yes,Very Dissatisfied,Moderate,4,No,Medium,Medium,3,4,3,Remote,LinkedIn
+Female,third,Low,Web Development,Very Hesitant,Personal Interest,No,No,Very Satisfied,Small,3,No,High,High,5,5,3,Remote,LinkedIn
+Male,fourth,Low,AI,Hesitant,Personal Interest,No,Yes,Satisfied,Small,4,No,High,Medium,5,5,5,Remote,LinkedIn
+Male,second,Low,Data Science,Hesitant,Personal Interest,No,No,Dissatisfied,Moderate,4,No,Medium,Medium,4,4,4,Hybrid,LinkedIn
+Female,second,Low,Web Development,Hesitant,Market Demand,No,Yes,Satisfied,Moderate,5,No,High,Medium,3,2,5,Hybrid,LinkedIn
+Male,second,Low,Web Development,Hesitant,Flexibility,No,No,Dissatisfied,Large,4,No,High,High,2,1,5,Remote,LinkedIn
+Female,third,Neutral,Web Development,Hesitant,Market Demand,No,No,Very Satisfied,Small,5,No,Medium,Medium,3,3,5,On-site,LinkedIn
+Female,third,Neutral,Data Science,Slightly Hesitant,Personal Interest,No,Yes,Satisfied,Large,3,No,High,High,3,2,2,Remote,LinkedIn
+Male,fourth,Low,Web Development,Hesitant,Personal Interest,No,Yes,Satisfied,Small,5,No,High,Medium,5,5,5,Remote,Indeed
+Female,third,Low,Mobile Development,Hesitant,Market Demand,No,Yes,Satisfied,Small,3,No,Medium,High,3,4,3,Hybrid,Indeed
+Male,first,Low,Data Science,Hesitant,Market Demand,No,No,Neutral,Moderate,4,No,High,High,3,2,3,Hybrid,LinkedIn
+Male,third,Low,Data Science,Hesitant,Personal Interest,No,Yes,Satisfied,Small,5,No,Medium,Medium,5,4,5,On-site,LinkedIn
+Male,third,Low,Web Development,Hesitant,Personal Interest,No,Yes,Satisfied,Small,4,No,High,Medium,3,2,4,Remote,Upwork
+Male,fourth,Neutral,Data Science,Hesitant,Salary Prospects,No,Yes,Very Satisfied,Small,4,No,High,Medium,4,4,5,Remote,LinkedIn
+Female,fourth,High,Web Development,Neutral,Flexibility,Yes,Yes,Very Dissatisfied,Large,5,Yes,High,Medium,4,5,5,Remote,Indeed
+Female,fourth,High,AI,Neutral,Personal Interest,Yes,No,Neutral,Moderate,5,Yes,High,Medium,4,5,4,Remote,LinkedIn
+Male,second,Low,Data Science,Hesitant,Personal Interest,No,No,Dissatisfied,Large,3,No,High,High,3,3,4,Hybrid,LinkedIn
+Female,first,Low,Data Science,Hesitant,Market Demand,No,No,Neutral,Small,4,No,High,High,3,2,3,Remote,LinkedIn
+Female,fourth,High,Data Science,Slightly Hesitant,Salary Prospects,Yes,Yes,Very Dissatisfied,Large,5,Yes,Medium,High,4,5,5,Remote,LinkedIn
+Female,fourth,Neutral,Data Science,Slightly Hesitant,Personal Interest,No,Yes,Neutral,Moderate,3,No,High,High,4,3,2,Hybrid,LinkedIn
+Male,third,Neutral,Data Science,Slightly Hesitant,Personal Interest,No,Yes,Dissatisfied,Large,4,No,Medium,High,5,5,3,Hybrid,LinkedIn
+Male,third,High,Web Development,Neutral,Personal Interest,Yes,Yes,Very Dissatisfied,Moderate,4,Yes,Medium,High,5,5,3,On-site,Indeed
+Female,first,Low,Data Science,Very Hesitant,Personal Interest,No,No,Satisfied,Large,4,No,High,Medium,5,4,3,Remote,LinkedIn
+Female,first,Low,Web Development,Very Hesitant,Market Demand,No,No,Neutral,Small,3,No,High,Medium,2,1,3,Remote,LinkedIn
+Male,third,Low,Data Science,Hesitant,Personal Interest,No,Yes,Satisfied,Small,3,No,High,High,5,5,3,Remote,LinkedIn
+Male,fourth,Low,Data Science,Hesitant,Market Demand,No,No,Dissatisfied,Large,4,No,High,High,2,1,3,Remote,LinkedIn
+Male,third,Low,Cybersecurity,Hesitant,Salary Prospects,No,Yes,Neutral,Large,4,No,Medium,High,4,5,4,On-site,LinkedIn
+Male,fourth,Neutral,Web Development,Hesitant,Market Demand,No,Yes,Satisfied,Small,3,No,Medium,Medium,2,1,4,Hybrid,LinkedIn
+Male,first,Low,Web Development,Hesitant,Personal Interest,No,No,Dissatisfied,Moderate,4,No,High,High,4,4,4,Freelance,Indeed
+Male,fourth,Neutral,Web Development,Hesitant,Personal Interest,No,Yes,Very Satisfied,Moderate,3,No,Medium,High,5,4,2,Remote,LinkedIn
+Male,second,Low,Web Development,Hesitant,Market Demand,No,No,Very Dissatisfied,Large,5,No,High,Medium,3,3,5,Remote,LinkedIn
+Female,second,Low,Cybersecurity,Very Hesitant,Market Demand,No,No,Very Dissatisfied,Large,3,No,Medium,High,4,4,4,Remote,LinkedIn
+Female,third,Low,Mobile Development,Very Hesitant,Market Demand,No,Yes,Satisfied,Small,4,No,High,Medium,3,4,5,Hybrid,Upwork
+Male,third,Low,Data Science,Very Hesitant,Personal Interest,No,Yes,Neutral,Small,3,No,Medium,Medium,3,2,2,Remote,LinkedIn
+Female,fourth,Neutral,Web Development,Hesitant,Market Demand,No,No,Satisfied,Small,4,No,High,Medium,2,3,3,Remote,Indeed
+Male,second,Neutral,Web Development,Slightly Hesitant,Personal Interest,No,No,Neutral,Large,5,No,High,Medium,5,5,5,Remote,Indeed
+Female,first,Low,Data Science,Hesitant,Salary Prospects,No,No,Very Satisfied,Small,3,No,High,High,4,3,4,On-site,LinkedIn
+Male,fourth,Low,Data Science,Hesitant,Personal Interest,No,No,Neutral,Large,4,No,High,High,3,4,3,Remote,LinkedIn
+Female,third,Low,Data Science,Hesitant,Personal Interest,No,Yes,Satisfied,Small,5,No,Medium,High,3,3,5,Remote,Fiverr
+Male,second,Low,Data Science,Hesitant,Salary Prospects,No,No,Neutral,Moderate,4,No,High,Medium,4,3,5,Remote,LinkedIn
+Female,fourth,Neutral,Data Science,Slightly Hesitant,Salary Prospects,No,Yes,Satisfied,Small,3,No,High,High,2,3,4,Remote,Indeed
+Male,fourth,High,Data Science,Slightly Hesitant,Market Demand,Yes,Yes,Satisfied,Small,5,Yes,Medium,High,3,2,5,Remote,Indeed
+Male,fourth,Low,Data Science,Hesitant,Salary Prospects,No,Yes,Satisfied,Large,4,No,High,High,3,2,5,Freelance,LinkedIn
+Female,second,Low,Mobile Development,Hesitant,Flexibility,No,No,Satisfied,Moderate,4,No,Medium,High,3,4,5,Remote,LinkedIn
+Female,fourth,Low,Mobile Development,Very Hesitant,Personal Interest,No,Yes,Neutral,Moderate,4,No,High,High,3,4,4,On-site,LinkedIn
+Male,fourth,Low,Data Science,Hesitant,Salary Prospects,No,Yes,Satisfied,Moderate,4,No,Medium,High,3,3,3,Hybrid,LinkedIn
+Male,third,Low,Data Science,Very Hesitant,Market Demand,No,Yes,Satisfied,Small,5,No,High,High,2,3,5,Remote,LinkedIn
+Female,fourth,Low,Data Science,Very Hesitant,Personal Interest,No,Yes,Neutral,Small,5,No,High,Medium,4,5,5,On-site,LinkedIn
+Male,fourth,High,Data Science,Slightly Hesitant,Salary Prospects,Yes,Yes,Satisfied,Small,4,Yes,Medium,High,3,4,5,Hybrid,Indeed
+Female,third,Low,Web Development,Very Hesitant,Market Demand,No,Yes,Very Dissatisfied,Moderate,5,No,High,High,3,3,5,Remote,LinkedIn
+Male,first,Low,Data Science,Hesitant,Salary Prospects,No,No,Dissatisfied,Large,4,No,High,High,2,2,3,On-site,Indeed
+Female,fourth,Neutral,Data Science,Hesitant,Market Demand,No,Yes,Neutral,Small,5,No,High,High,2,2,4,Hybrid,LinkedIn
+Female,first,Low,Data Science,Hesitant,Personal Interest,No,No,Very Dissatisfied,Large,3,No,High,High,3,3,2,Freelance,LinkedIn
+Female,fourth,Neutral,Data Science,Hesitant,Market Demand,No,Yes,Very Satisfied,Small,5,No,Medium,High,2,1,5,Remote,LinkedIn
+Male,fourth,High,Data Science,Slightly Hesitant,Personal Interest,Yes,Yes,Very Dissatisfied,Moderate,5,Yes,High,Medium,3,2,5,Remote,LinkedIn
+Female,first,Low,Data Science,Very Hesitant,Salary Prospects,No,No,Very Dissatisfied,Moderate,5,No,Medium,High,4,3,5,Hybrid,LinkedIn
+Male,fourth,Low,Web Development,Hesitant,Personal Interest,No,Yes,Neutral,Moderate,4,No,High,High,5,5,5,Remote,LinkedIn
+Female,third,Low,Data Science,Very Hesitant,Personal Interest,No,Yes,Dissatisfied,Large,3,No,High,High,3,4,4,On-site,LinkedIn
+Female,second,Low,Web Development,Very Hesitant,Flexibility,No,No,Very Dissatisfied,Moderate,5,No,Medium,Medium,4,5,5,Remote,LinkedIn
+Male,second,Neutral,Web Development,Slightly Hesitant,Flexibility,No,No,Very Dissatisfied,Small,3,No,High,High,4,3,2,On-site,Indeed
+Male,third,High,AI,Neutral,Market Demand,Yes,Yes,Very Satisfied,Moderate,5,Yes,High,High,2,1,5,Remote,LinkedIn
+Female,fourth,Low,Cybersecurity,Very Hesitant,Salary Prospects,No,Yes,Very Satisfied,Moderate,4,No,High,High,4,5,5,Remote,LinkedIn
+Female,second,Neutral,Cybersecurity,Hesitant,Salary Prospects,No,No,Very Dissatisfied,Large,4,No,Medium,High,4,5,5,Freelance,LinkedIn
+Male,first,Low,Web Development,Hesitant,Personal Interest,No,No,Dissatisfied,Moderate,5,No,High,High,3,4,5,Hybrid,LinkedIn
+Male,fourth,Neutral,AI,Slightly Hesitant,Personal Interest,No,No,Satisfied,Small,4,No,High,High,5,4,3,Remote,LinkedIn
+Female,fourth,High,Web Development,Slightly Hesitant,Flexibility,Yes,No,Satisfied,Moderate,4,Yes,High,High,4,4,4,Remote,LinkedIn
+Male,third,Low,Data Science,Hesitant,Personal Interest,No,Yes,Satisfied,Small,5,No,High,High,4,5,5,Remote,LinkedIn
+Male,fourth,Low,Web Development,Hesitant,Flexibility,No,Yes,Dissatisfied,Large,5,No,High,Medium,2,2,5,Remote,LinkedIn
+Female,third,Low,Mobile Development,Very Hesitant,Personal Interest,No,Yes,Neutral,Large,5,No,High,Medium,5,5,5,Remote,LinkedIn
+Male,fourth,Neutral,Data Science,Slightly Hesitant,Personal Interest,No,No,Very Satisfied,Small,5,No,High,Medium,4,3,5,Remote,LinkedIn
+Female,third,Low,Cybersecurity,Very Hesitant,Personal Interest,No,Yes,Very Satisfied,Small,4,No,High,Medium,3,2,4,Remote,LinkedIn
+Female,first,Low,Data Science,Very Hesitant,Personal Interest,No,Yes,Dissatisfied,Large,4,No,High,High,3,2,4,Remote,Indeed
+Female,first,Low,Data Science,Hesitant,Salary Prospects,No,Yes,Very Dissatisfied,Large,3,No,High,High,2,1,4,Remote,LinkedIn
+Male,second,Low,Web Development,Hesitant,Flexibility,No,No,Dissatisfied,Large,5,No,High,High,3,2,5,Hybrid,Upwork
+Female,second,Low,AI,Hesitant,Personal Interest,No,No,Very Dissatisfied,Small,5,No,High,High,4,4,4,Remote,LinkedIn
+Male,third,Low,Data Science,Hesitant,Market Demand,No,Yes,Satisfied,Moderate,4,No,Medium,Medium,3,2,3,Remote,Indeed
+Male,fourth,High,Data Science,Slightly Hesitant,Market Demand,Yes,Yes,Very Satisfied,Moderate,4,Yes,Medium,Medium,4,4,5,Remote,LinkedIn
+Female,fourth,Neutral,Cybersecurity,Hesitant,Personal Interest,No,Yes,Neutral,Moderate,3,No,High,Medium,3,3,2,Hybrid,LinkedIn
+Male,second,Low,Web Development,Very Hesitant,Market Demand,No,No,Satisfied,Small,5,No,High,High,2,3,4,Hybrid,LinkedIn
+Female,fourth,High,Data Science,Neutral,Personal Interest,Yes,No,Satisfied,Small,5,Yes,Medium,High,4,5,5,Remote,LinkedIn
+Male,second,Low,Web Development,Hesitant,Personal Interest,No,No,Satisfied,Moderate,3,No,High,Medium,5,5,3,On-site,Fiverr
+Female,second,Neutral,Web Development,Hesitant,Market Demand,No,Yes,Very Dissatisfied,Moderate,4,No,Medium,Medium,2,1,3,Remote,LinkedIn
+Female,third,Low,Mobile Development,Hesitant,Personal Interest,No,No,Neutral,Moderate,3,No,Medium,High,3,4,4,Freelance,LinkedIn
+Female,fourth,Low,Data Science,Hesitant,Salary Prospects,No,Yes,Very Satisfied,Small,4,No,High,Medium,2,3,5,Remote,LinkedIn
+Male,fourth,High,Web Development,Neutral,Personal Interest,Yes,No,Very Satisfied,Small,3,Yes,High,Medium,4,3,3,Freelance,LinkedIn
+Female,third,Low,Web Development,Very Hesitant,Market Demand,No,Yes,Satisfied,Small,5,No,High,High,3,4,5,Remote,LinkedIn
+Female,third,Low,Web Development,Very Hesitant,Personal Interest,No,Yes,Very Dissatisfied,Small,5,No,Medium,High,3,3,5,Remote,LinkedIn
+Female,third,High,Web Development,Neutral,Personal Interest,Yes,Yes,Dissatisfied,Moderate,3,Yes,High,High,3,3,3,Freelance,LinkedIn
+Female,third,Low,AI,Hesitant,Personal Interest,No,Yes,Neutral,Moderate,3,No,High,High,4,5,4,On-site,LinkedIn
+Male,third,Neutral,AI,Hesitant,Personal Interest,No,No,Very Satisfied,Large,3,No,Medium,Medium,3,4,4,Remote,LinkedIn
+Male,fourth,High,AI,Slightly Hesitant,Market Demand,Yes,Yes,Very Satisfied,Small,5,Yes,Medium,High,2,2,4,Remote,LinkedIn
+Female,first,Low,AI,Hesitant,Personal Interest,No,No,Neutral,Moderate,3,No,High,High,4,5,2,Remote,LinkedIn
+Female,third,Neutral,Data Science,Slightly Hesitant,Personal Interest,No,Yes,Dissatisfied,Large,3,No,Medium,High,3,2,2,Remote,LinkedIn
+Female,fourth,Low,Mobile Development,Very Hesitant,Personal Interest,No,No,Neutral,Moderate,4,No,Medium,Medium,4,4,4,Hybrid,Indeed
+Male,third,Low,AI,Very Hesitant,Personal Interest,No,Yes,Very Satisfied,Moderate,5,No,Medium,Medium,4,4,4,Remote,Fiverr
+Female,fourth,Low,AI,Very Hesitant,Personal Interest,No,Yes,Neutral,Small,4,No,Medium,Medium,3,3,4,Remote,Indeed
+Female,fourth,Low,Web Development,Very Hesitant,Personal Interest,No,No,Satisfied,Small,5,No,High,Medium,5,4,4,Remote,LinkedIn
+Female,third,High,AI,Slightly Hesitant,Market Demand,Yes,No,Very Satisfied,Moderate,4,Yes,High,High,4,4,5,Hybrid,Fiverr
+Male,third,High,Data Science,Neutral,Salary Prospects,Yes,Yes,Very Satisfied,Moderate,5,Yes,High,Medium,2,1,5,Remote,LinkedIn
+Male,second,Low,Web Development,Hesitant,Personal Interest,No,Yes,Neutral,Moderate,4,No,High,Medium,4,4,3,On-site,LinkedIn
+Female,fourth,Low,Data Science,Very Hesitant,Personal Interest,No,Yes,Neutral,Moderate,4,No,High,Medium,4,4,4,Remote,LinkedIn
+Female,third,Low,Mobile Development,Very Hesitant,Personal Interest,No,Yes,Neutral,Moderate,3,No,High,Medium,5,4,2,Remote,LinkedIn
+Female,third,Neutral,Data Science,Hesitant,Personal Interest,No,Yes,Very Satisfied,Large,4,No,High,Medium,5,5,5,Remote,LinkedIn
+Male,fourth,Low,Data Science,Hesitant,Personal Interest,No,Yes,Dissatisfied,Small,5,No,High,High,4,3,5,On-site,LinkedIn
+Female,fourth,Neutral,Data Science,Hesitant,Personal Interest,No,Yes,Neutral,Small,4,No,Medium,High,5,5,3,Remote,Indeed
+Male,second,Low,AI,Hesitant,Personal Interest,No,No,Very Dissatisfied,Moderate,5,No,High,High,5,5,5,On-site,LinkedIn
+Female,second,Low,Web Development,Very Hesitant,Personal Interest,No,No,Dissatisfied,Large,5,No,High,High,5,4,5,On-site,LinkedIn
+Male,third,Neutral,Mobile Development,Hesitant,Flexibility,No,Yes,Dissatisfied,Moderate,5,No,Medium,High,4,3,5,Hybrid,Indeed
+Female,third,High,Web Development,Slightly Hesitant,Personal Interest,Yes,Yes,Satisfied,Small,5,Yes,High,High,4,4,5,Remote,Upwork
+Female,fourth,Neutral,Web Development,Hesitant,Market Demand,No,Yes,Very Satisfied,Moderate,4,No,High,Medium,3,3,3,Freelance,LinkedIn
+Male,fourth,High,Data Science,Slightly Hesitant,Salary Prospects,Yes,Yes,Satisfied,Small,3,Yes,High,High,4,3,3,Hybrid,LinkedIn
+Male,third,Neutral,Web Development,Slightly Hesitant,Personal Interest,No,No,Satisfied,Small,4,No,High,Medium,5,5,5,Hybrid,LinkedIn
+Female,fourth,Low,Data Science,Very Hesitant,Salary Prospects,No,Yes,Very Satisfied,Small,5,No,High,High,2,2,4,Remote,LinkedIn
+Female,third,High,Data Science,Slightly Hesitant,Salary Prospects,Yes,No,Dissatisfied,Moderate,5,Yes,High,Medium,3,3,5,Remote,Upwork
+Male,fourth,Low,Data Science,Hesitant,Personal Interest,No,No,Satisfied,Small,5,No,High,Medium,4,5,5,On-site,LinkedIn
+Female,third,Neutral,Data Science,Hesitant,Personal Interest,No,Yes,Satisfied,Small,4,No,High,High,5,4,3,Remote,LinkedIn
+Female,fourth,Low,Web Development,Very Hesitant,Personal Interest,No,Yes,Dissatisfied,Moderate,5,No,High,High,4,4,4,Remote,Fiverr
+Female,third,Low,AI,Very Hesitant,Personal Interest,No,No,Very Dissatisfied,Large,4,No,High,High,3,2,5,On-site,LinkedIn
+Female,third,High,Web Development,Neutral,Personal Interest,Yes,No,Very Dissatisfied,Large,4,Yes,High,Medium,5,5,3,Remote,Indeed
+Female,fourth,Neutral,Data Science,Hesitant,Market Demand,No,No,Very Satisfied,Small,3,No,High,Medium,4,4,4,Remote,LinkedIn
+Female,second,Neutral,Cybersecurity,Hesitant,Personal Interest,No,Yes,Satisfied,Small,4,No,Medium,High,5,5,3,Remote,LinkedIn
+Male,fourth,Low,Data Science,Very Hesitant,Personal Interest,No,No,Very Satisfied,Small,3,No,High,High,4,4,2,Remote,LinkedIn
+Male,fourth,High,Cybersecurity,Neutral,Salary Prospects,Yes,Yes,Satisfied,Moderate,4,Yes,High,High,2,3,4,On-site,LinkedIn
+Male,third,Low,Data Science,Very Hesitant,Market Demand,No,Yes,Neutral,Large,5,No,Medium,High,4,3,4,Remote,LinkedIn
+Male,first,Low,Web Development,Hesitant,Flexibility,No,No,Satisfied,Small,4,No,High,Medium,3,2,4,Freelance,LinkedIn
+Female,fourth,High,AI,Neutral,Market Demand,Yes,Yes,Satisfied,Small,4,Yes,High,High,3,4,3,Remote,Indeed
+Female,third,Low,Web Development,Very Hesitant,Personal Interest,No,No,Neutral,Small,4,No,Medium,Medium,3,3,5,Remote,LinkedIn
+Female,third,Neutral,Data Science,Hesitant,Market Demand,No,Yes,Very Satisfied,Moderate,4,No,High,Medium,3,3,4,Freelance,LinkedIn
+Female,second,Neutral,Cybersecurity,Slightly Hesitant,Personal Interest,No,No,Satisfied,Small,5,No,High,High,4,3,5,Remote,Indeed
+Female,fourth,Low,Web Development,Hesitant,Personal Interest,No,Yes,Satisfied,Small,3,No,High,High,5,5,2,Remote,LinkedIn
+Male,third,Neutral,Data Science,Hesitant,Market Demand,No,Yes,Neutral,Small,5,No,High,Medium,2,1,4,Remote,LinkedIn
+Female,second,Low,Data Science,Hesitant,Salary Prospects,No,Yes,Very Satisfied,Small,3,No,Medium,Medium,2,3,2,On-site,LinkedIn
+Female,fourth,Neutral,Web Development,Slightly Hesitant,Personal Interest,No,Yes,Neutral,Large,5,No,High,High,4,4,4,Remote,LinkedIn
+Female,fourth,Low,Mobile Development,Very Hesitant,Flexibility,No,Yes,Satisfied,Small,3,No,High,High,3,4,3,Hybrid,LinkedIn
+Female,second,Neutral,Cybersecurity,Hesitant,Personal Interest,No,No,Very Dissatisfied,Small,4,No,High,Medium,5,5,4,Remote,Upwork
+Male,second,Low,Web Development,Hesitant,Personal Interest,No,No,Dissatisfied,Large,3,No,High,High,3,3,3,Remote,LinkedIn
+Female,third,Low,AI,Hesitant,Personal Interest,No,No,Satisfied,Small,4,No,High,Medium,5,5,3,Remote,Indeed
+Female,third,High,Data Science,Neutral,Personal Interest,Yes,Yes,Satisfied,Small,4,Yes,High,High,4,3,4,Hybrid,LinkedIn
+Female,third,High,Data Science,Neutral,Personal Interest,Yes,Yes,Neutral,Large,3,Yes,High,High,5,4,3,Freelance,LinkedIn
+Female,second,Low,Data Science,Very Hesitant,Market Demand,No,No,Satisfied,Small,5,No,Medium,High,2,1,4,Freelance,Indeed
+Female,third,Low,AI,Very Hesitant,Market Demand,No,No,Dissatisfied,Large,5,No,High,High,4,3,4,Remote,Fiverr
+Female,fourth,Low,Web Development,Very Hesitant,Personal Interest,No,No,Neutral,Moderate,4,No,Medium,High,4,4,5,Freelance,LinkedIn
+Female,first,Neutral,AI,Slightly Hesitant,Market Demand,No,No,Dissatisfied,Large,3,No,Medium,High,4,4,3,Remote,LinkedIn
+Male,third,Low,Cybersecurity,Hesitant,Personal Interest,No,No,Dissatisfied,Moderate,4,No,High,Medium,3,2,5,Hybrid,LinkedIn
+Male,fourth,Low,AI,Hesitant,Personal Interest,No,No,Neutral,Small,5,No,High,Medium,5,5,5,Hybrid,LinkedIn
+Male,first,Low,Data Science,Hesitant,Personal Interest,No,No,Satisfied,Moderate,3,No,High,High,5,5,3,Remote,LinkedIn
+Female,third,Low,Web Development,Very Hesitant,Flexibility,No,Yes,Very Satisfied,Moderate,4,No,High,High,4,5,5,On-site,LinkedIn
+Female,third,Neutral,Mobile Development,Slightly Hesitant,Personal Interest,No,Yes,Satisfied,Small,3,No,High,Medium,3,4,2,Remote,Upwork
+Male,fourth,Low,Data Science,Very Hesitant,Personal Interest,No,No,Very Satisfied,Moderate,5,No,Medium,Medium,3,2,4,On-site,LinkedIn
+Female,fourth,High,Data Science,Slightly Hesitant,Salary Prospects,Yes,Yes,Very Satisfied,Small,5,Yes,High,High,4,5,5,Remote,Indeed
+Male,fourth,Neutral,Data Science,Hesitant,Personal Interest,No,Yes,Neutral,Moderate,4,No,Medium,High,3,2,4,Remote,LinkedIn
+Female,fourth,Low,Web Development,Hesitant,Flexibility,No,Yes,Very Satisfied,Moderate,5,No,High,Medium,4,5,4,Remote,LinkedIn
+Male,second,High,Data Science,Neutral,Personal Interest,Yes,No,Satisfied,Large,4,Yes,High,High,5,5,4,Remote,LinkedIn
+Male,first,Neutral,Cybersecurity,Hesitant,Personal Interest,No,No,Very Dissatisfied,Large,5,No,High,Medium,5,5,5,Hybrid,Indeed
+Male,third,Low,Data Science,Very Hesitant,Personal Interest,No,No,Dissatisfied,Small,5,No,High,High,3,2,5,Remote,LinkedIn
+Female,third,Low,Data Science,Hesitant,Personal Interest,No,No,Satisfied,Small,4,No,High,High,4,4,3,Remote,LinkedIn
+Male,second,Low,Data Science,Very Hesitant,Personal Interest,No,No,Very Dissatisfied,Large,5,No,High,High,3,4,5,Hybrid,Indeed
+Male,third,Low,AI,Hesitant,Personal Interest,No,Yes,Satisfied,Large,5,No,Medium,Medium,4,4,5,Hybrid,LinkedIn
+Female,fourth,High,Data Science,Neutral,Salary Prospects,Yes,Yes,Satisfied,Moderate,5,Yes,High,Medium,4,3,5,Remote,LinkedIn
+Male,third,High,Web Development,Neutral,Personal Interest,Yes,Yes,Satisfied,Small,4,Yes,High,High,4,3,4,Remote,Upwork
+Female,fourth,Low,Mobile Development,Very Hesitant,Flexibility,No,Yes,Satisfied,Moderate,4,No,High,High,3,4,3,Hybrid,LinkedIn
+Male,third,Neutral,Data Science,Slightly Hesitant,Market Demand,No,Yes,Satisfied,Small,4,No,Medium,Medium,3,3,3,Remote,LinkedIn
+Male,fourth,High,Data Science,Slightly Hesitant,Personal Interest,Yes,Yes,Satisfied,Moderate,4,Yes,Medium,High,3,4,3,Remote,LinkedIn
+Male,third,Low,Mobile Development,Very Hesitant,Personal Interest,No,Yes,Very Satisfied,Small,5,No,High,High,4,5,5,Hybrid,LinkedIn
+Male,fourth,Low,Web Development,Very Hesitant,Personal Interest,No,Yes,Satisfied,Small,4,No,Medium,Medium,5,5,5,Remote,LinkedIn
+Male,third,Low,Web Development,Hesitant,Market Demand,No,Yes,Satisfied,Small,5,No,Medium,Medium,2,3,5,Remote,LinkedIn
+Male,first,Low,AI,Very Hesitant,Personal Interest,No,Yes,Dissatisfied,Small,3,No,High,High,3,3,3,Hybrid,Indeed
+Male,third,Neutral,AI,Hesitant,Personal Interest,No,Yes,Satisfied,Large,4,No,Medium,Medium,5,4,3,On-site,LinkedIn
+Female,fourth,Neutral,Cybersecurity,Slightly Hesitant,Personal Interest,No,Yes,Very Satisfied,Moderate,4,No,High,Medium,3,2,4,Remote,LinkedIn
+Male,fourth,Neutral,Data Science,Hesitant,Salary Prospects,No,Yes,Dissatisfied,Large,4,No,Medium,Medium,2,1,3,On-site,Fiverr
+Female,third,Low,Web Development,Very Hesitant,Personal Interest,No,No,Satisfied,Moderate,4,No,Medium,High,4,4,3,Remote,Indeed
+Female,fourth,Low,Data Science,Very Hesitant,Personal Interest,No,No,Satisfied,Moderate,3,No,Medium,Medium,5,5,4,On-site,LinkedIn
+Male,third,Low,Cybersecurity,Hesitant,Personal Interest,No,No,Satisfied,Small,4,No,High,High,5,4,3,Hybrid,LinkedIn
+Female,second,Neutral,AI,Slightly Hesitant,Market Demand,No,No,Satisfied,Moderate,4,No,Medium,High,2,1,5,Remote,LinkedIn
+Male,third,Neutral,Web Development,Hesitant,Personal Interest,No,No,Dissatisfied,Large,4,No,High,Medium,3,3,3,On-site,LinkedIn
+Female,second,Neutral,Web Development,Hesitant,Personal Interest,No,No,Very Dissatisfied,Moderate,5,No,High,High,5,5,5,On-site,LinkedIn
+Male,second,Low,Web Development,Very Hesitant,Flexibility,No,No,Neutral,Moderate,4,No,High,High,3,4,5,Remote,LinkedIn
+Male,second,Neutral,Web Development,Slightly Hesitant,Flexibility,No,No,Very Dissatisfied,Large,4,No,High,High,4,5,4,Remote,LinkedIn
+Male,third,Low,Data Science,Hesitant,Personal Interest,No,Yes,Satisfied,Small,3,No,High,High,4,5,2,Remote,LinkedIn
+Male,first,Low,Web Development,Very Hesitant,Market Demand,No,No,Very Dissatisfied,Large,5,No,High,Medium,4,3,4,Hybrid,Fiverr
+Male,third,Low,Cybersecurity,Hesitant,Personal Interest,No,Yes,Satisfied,Small,4,No,High,High,4,5,5,Freelance,LinkedIn
+Female,fourth,Neutral,AI,Hesitant,Personal Interest,No,Yes,Neutral,Moderate,3,No,High,High,5,5,2,Remote,LinkedIn
+Female,third,High,Data Science,Neutral,Salary Prospects,Yes,Yes,Very Satisfied,Moderate,5,Yes,High,High,2,2,5,Remote,LinkedIn
+Male,first,Low,Mobile Development,Hesitant,Personal Interest,No,No,Dissatisfied,Large,5,No,Medium,High,5,5,4,Hybrid,LinkedIn
+Male,first,Low,Mobile Development,Hesitant,Flexibility,No,No,Neutral,Moderate,3,No,Medium,High,3,4,3,Hybrid,LinkedIn
+Male,third,High,AI,Slightly Hesitant,Personal Interest,Yes,No,Satisfied,Small,5,Yes,High,High,5,5,5,Remote,Upwork
+Male,third,Low,Data Science,Very Hesitant,Personal Interest,No,Yes,Neutral,Large,3,No,High,Medium,5,4,2,Hybrid,Fiverr
+Male,first,Low,Data Science,Very Hesitant,Personal Interest,No,No,Dissatisfied,Large,5,No,Medium,High,4,5,4,On-site,LinkedIn
+Male,fourth,High,Web Development,Slightly Hesitant,Personal Interest,Yes,Yes,Very Satisfied,Small,5,Yes,High,High,5,5,5,Remote,LinkedIn
+Male,fourth,Low,Data Science,Hesitant,Salary Prospects,No,No,Dissatisfied,Large,5,No,High,Medium,4,5,4,Remote,LinkedIn
+Female,third,Low,Data Science,Very Hesitant,Personal Interest,No,No,Very Satisfied,Small,5,No,Medium,High,3,2,4,Hybrid,Indeed
+Female,fourth,Low,Data Science,Very Hesitant,Personal Interest,No,Yes,Satisfied,Large,5,No,Medium,Medium,5,4,5,Remote,Indeed
+Female,third,Neutral,AI,Slightly Hesitant,Market Demand,No,Yes,Satisfied,Small,4,No,Medium,High,3,4,4,Remote,LinkedIn
+Female,third,High,Cybersecurity,Slightly Hesitant,Personal Interest,Yes,Yes,Very Dissatisfied,Small,5,Yes,High,High,5,4,4,Remote,LinkedIn
+Female,third,Low,Cybersecurity,Very Hesitant,Market Demand,No,Yes,Very Satisfied,Small,3,No,Medium,High,3,2,2,Remote,LinkedIn
+Female,third,Neutral,Data Science,Hesitant,Salary Prospects,No,Yes,Satisfied,Moderate,3,No,High,Medium,2,3,2,On-site,LinkedIn
+Female,second,Low,Data Science,Very Hesitant,Personal Interest,No,No,Very Dissatisfied,Large,3,No,Medium,High,4,3,2,Remote,LinkedIn
+Female,third,Low,Web Development,Very Hesitant,Personal Interest,No,Yes,Dissatisfied,Large,5,No,High,High,5,5,5,Remote,LinkedIn
+Male,second,High,AI,Neutral,Personal Interest,Yes,No,Dissatisfied,Large,4,Yes,Medium,High,4,4,4,Remote,Fiverr
+Female,fourth,Low,Web Development,Very Hesitant,Personal Interest,No,Yes,Satisfied,Small,3,No,High,Medium,4,5,3,Remote,Indeed
+Male,fourth,Low,Data Science,Hesitant,Personal Interest,No,Yes,Satisfied,Small,5,No,High,Medium,4,3,5,Remote,LinkedIn
+Male,fourth,Low,Web Development,Very Hesitant,Personal Interest,No,Yes,Very Satisfied,Moderate,5,No,Medium,High,4,3,5,Remote,Indeed
+Female,third,Low,Data Science,Very Hesitant,Market Demand,No,Yes,Satisfied,Moderate,5,No,High,High,4,5,5,Remote,LinkedIn
+Male,third,High,Cybersecurity,Neutral,Personal Interest,Yes,Yes,Neutral,Moderate,4,Yes,High,High,5,4,5,On-site,LinkedIn
+Male,fourth,Neutral,Data Science,Hesitant,Personal Interest,No,Yes,Neutral,Moderate,4,No,High,High,4,5,5,Hybrid,LinkedIn
+Male,third,High,Web Development,Neutral,Personal Interest,Yes,No,Satisfied,Moderate,4,Yes,High,High,4,4,3,Hybrid,LinkedIn
+Female,third,High,AI,Slightly Hesitant,Personal Interest,Yes,No,Very Satisfied,Small,4,Yes,Medium,Medium,3,4,5,Remote,Indeed
+Female,third,Low,Cybersecurity,Hesitant,Salary Prospects,No,Yes,Very Satisfied,Large,5,No,High,Medium,4,5,5,Freelance,LinkedIn
+Female,fourth,Neutral,Cybersecurity,Hesitant,Personal Interest,No,Yes,Satisfied,Small,5,No,High,High,3,3,5,Hybrid,Fiverr
+Female,fourth,Low,Data Science,Hesitant,Market Demand,No,No,Satisfied,Small,5,No,High,High,2,2,4,Hybrid,LinkedIn
+Female,second,Low,Data Science,Very Hesitant,Personal Interest,No,No,Satisfied,Small,5,No,High,Medium,3,3,4,Remote,LinkedIn
+Female,third,High,Data Science,Slightly Hesitant,Personal Interest,Yes,Yes,Satisfied,Small,4,Yes,High,High,3,4,4,Remote,LinkedIn
+Male,fourth,Low,Data Science,Hesitant,Personal Interest,No,Yes,Satisfied,Small,5,No,High,High,3,3,5,Remote,LinkedIn
+Male,third,Low,Web Development,Hesitant,Market Demand,No,Yes,Very Satisfied,Small,4,No,High,Medium,2,1,4,Hybrid,LinkedIn
+Male,first,Low,Web Development,Hesitant,Personal Interest,No,No,Satisfied,Moderate,3,No,High,High,5,5,4,Remote,LinkedIn
+Male,third,Neutral,Web Development,Slightly Hesitant,Personal Interest,No,Yes,Dissatisfied,Large,4,No,High,High,5,5,3,Freelance,LinkedIn
+Male,fourth,Neutral,Cybersecurity,Slightly Hesitant,Market Demand,No,Yes,Very Dissatisfied,Large,4,No,High,Medium,4,3,5,Hybrid,LinkedIn
+Female,second,Low,AI,Very Hesitant,Personal Interest,No,No,Neutral,Moderate,5,No,Medium,High,3,4,4,Hybrid,LinkedIn
+Female,third,Neutral,AI,Hesitant,Market Demand,No,Yes,Very Satisfied,Small,4,No,Medium,High,3,4,3,Remote,LinkedIn
+Male,third,Low,Mobile Development,Hesitant,Market Demand,No,Yes,Dissatisfied,Small,5,No,High,High,2,2,5,Freelance,Indeed
